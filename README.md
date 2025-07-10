@@ -1,7 +1,7 @@
 ## Hi, I'm Gülseher ✨
 
 🧠 Computer Engineering student at Niğde Ömer Halisdemir University <br/>
-🎮 Aspiring Game Developer | Creating games for fun and learning <br/>
+🎮 Game Developer | Creating games for fun and learning <br/>
 💖 I love every project I work on! <br/>
 
 ## 🌐 Socials:
