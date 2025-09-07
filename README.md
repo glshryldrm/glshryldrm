@@ -26,12 +26,15 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=glshryldrm&theme=default_repocard&hide_border=true" />
 
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glshryldrm/glshryldrm/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glshryldrm/glshryldrm/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/glshryldrm/glshryldrm/output/pacman-contribution-graph.svg">
 </picture>
 
+###
 
 
 
