@@ -21,7 +21,6 @@
 <h2></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glshryldrm&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false" />
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glshryldrm&size_weight=0.5&count_weight=1&exclude_repo=FPS-w-Photon-Fusion,glshryldrm.github.io&hide=hlsl&layout=compact&hide_border=true) 
   
