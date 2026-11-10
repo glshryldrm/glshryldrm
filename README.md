@@ -20,13 +20,6 @@
 
 <h2></h2>
 
-<div align="center">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glshryldrm&size_weight=0.5&count_weight=1&exclude_repo=FPS-w-Photon-Fusion,glshryldrm.github.io&hide=hlsl&layout=compact&hide_border=true) 
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=glshryldrm&theme=default_repocard&hide_border=true" />
-
-</div>
 
 <br clear="both">
 <picture>
